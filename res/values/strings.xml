@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WheelActivity!</string>
+    <string name="app_name">Wheel</string>
+    <string name="add">手动添加</string>
+
+</resources>
